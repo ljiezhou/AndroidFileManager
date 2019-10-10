@@ -74,3 +74,4 @@ captures
 .externalNativeBuild
 .cxx
 build
+gradle
